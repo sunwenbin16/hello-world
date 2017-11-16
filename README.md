@@ -1,2 +1,4 @@
 # hello-world
-test
+Hi WenBin Sun!
+This id a test project.
+
